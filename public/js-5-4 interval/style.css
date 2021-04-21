@@ -1,0 +1,21 @@
+   
+   header, main, footer, main section {
+      text-align:center;
+      color: white;
+      padding: 10px;
+      margin: 10px;
+   }
+   header {  background-color: red; }
+   footer { background-color: magenta; }
+   main { 
+      background-color: orange; 
+      height: 500px;
+      position:relative;
+   }
+   main section {
+      position: absolute;
+      background-color: blue;
+   }
+   
+   
+   
